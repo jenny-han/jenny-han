@@ -1,22 +1,81 @@
+<!-- profile view counter -->
+<p align="right">  
+  <img src="https://komarev.com/ghpvc/?username=jenny-han&label=Profile%20views&color=CDA6AA&style=for-the-badge&abbreviated=false" alt="jenny-han" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jenny-han&label=Profile%20views&color=CDA6AA&style=flat-square" alt="jenny-han" /> </p>
+<div align="center" style="font-family:Pretendard"> 
+<br>
 
-<div align="center"> 
-<br><br>
+<!-- Greeting Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Double+Ink&weight=500&size=23&pause=1000&color=B173D7&center=true&width=500&lines=Hi+There!+I+am+JennyHan+%F0%9F%99%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&color=CBD6C8&size=35&center=true&vCenter=true&width=500&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JennyHan+++🐾+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+<h2>Jenny Han</h2>
 
-<br><br>
-  <h4 fontFamily=Caveat> Full Stack Web Developer </h4>
+<!--Skill Set-->
+
+<p>✨ Full Stack Engineer 👩🏻‍💻</p>
+I enjoy solving business problems with technology and turning ideas into working products.
+
+---
+
+### 🛠 Tech Stack
+
+#### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
+#### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+#### 🗄 Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat-square"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat-square"/>
+
+#### ☁️ Infra / DevOps
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 
 
-  <!-- social link - notion tistory mail-->
+#### 🧰 Tools 🤖
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/v0-000?logo=v0&style=flat-square&logoColor=fff"/>
+<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=fff"/>
+
+---
+
+
+  <!-- social link - github tistory mail-->
+<h4>📇 CONTACT </h4>
   <p>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/></a> 
-    <a href="https://www.notion.so/Hello-I-m-Jenny-Han-e4fb01ebda5b464089bdc492749d06e0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-    <a href="https://chaezzing-fly-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-de5104?style=flat-square&logo=tistory&logoColor=#fff" /> </a>
-    <a href="https://instagram.com/dev.jennyhan?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-f4f6f9?style=flat-square&logo=instagram&logoColor=#000000" /> </a>
-    <a href="http://mailto:dev.jennyhan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-f4f6f9?style=flat-square&logo=gmail&logoColor=#000000" /> </a>
+    <a href="https://chaezzing-fly-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-de5104?style=flat-square&logo=tistory&logoColor=#fff" /></a>
+    <a href="https://www.instagram.com/dev.jennyhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="http://mailto:dev.jennyhan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   </p>
 
   <br><br><br>
